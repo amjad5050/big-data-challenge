@@ -18,4 +18,6 @@ In this assignment I have put my ETL skills to the test.  my first goal for this
 
   * **Transform** the dataset to fit the tables in the [schema file](../Resources/schema.sql). It has been made  sure the DataFrames match in data type and in column name.
 
-  * **Load** the DataFrames that correspond to tables into an RDS instance. **Note:** This process can take up to 10 minutes for each. Be sure that everything is correct before uploading.
+  * **Load** the DataFrames that correspond to tables into an RDS instance. 
+all the sql file are submitted in sql folders
+amazon files are submitted as Amazonsoftware.ipynb and  AmazonShoes.ipynb.
