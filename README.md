@@ -1,2 +1,2 @@
 # big-data-challenge
-![horseracing.jpg](bigdata.jpg)
+![bigdata.jpg](bigdata.jpg)
